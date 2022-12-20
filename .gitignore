@@ -6,6 +6,8 @@
 
 # Ignore bundler config.
 /.bundle
+/.idea
+.idea
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
@@ -41,8 +43,8 @@ Issues
 Codespaces
 Marketplace
 Explore
- 
-@kimmi1206 
+
+@kimmi1206
 kimmi1206
 /
 rails_app
